@@ -1,2 +1,2 @@
 # ZaverstaiMarafon
- Practicing in html, css in HTML Academy
+ Practicing html, css in HTML Academy
